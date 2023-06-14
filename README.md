@@ -49,10 +49,10 @@ Execute the following command -
 
 client side:
 
+```
 // first install all necessary dependencies
 
 npm install
-```
 // next run
 
 npm run dev
@@ -64,10 +64,10 @@ Application starts running on `http://localhost:5173`
 
 server side:
 
+```
 // first install all necessary dependencies
 
 npm install
-```
 // next run
 
 npm run dev

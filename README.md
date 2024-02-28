@@ -1,4 +1,4 @@
-## React Airbnb Clone build using MERN Stack Axios
+## React Safar Sathi build using MERN Stack Axios
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -10,7 +10,7 @@
 </p>
 
 
-React Airbnb Clone App enables simplified responsive UI using react node combinations.
+React Safar Sathi App is a Airbnb clone which enables simplified responsive UI using react node combinations.
 
 #### Features
 - Skeleton Screen implementation before loading the places.
